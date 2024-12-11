@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/winner-invest/static/css/main.2d288321.css",
+    "main.js": "/winner-invest/static/js/main.9b945d4a.js",
+    "static/js/453.5b34c5b8.chunk.js": "/winner-invest/static/js/453.5b34c5b8.chunk.js",
+    "static/media/business-planning.jpg": "/winner-invest/static/media/business-planning.8c7f494dbd839f441ab3.jpg",
+    "static/media/logo-Winner-Invest.png": "/winner-invest/static/media/logo-Winner-Invest.b6fa83c6eb37590e30d9.png",
+    "index.html": "/winner-invest/index.html",
+    "main.2d288321.css.map": "/winner-invest/static/css/main.2d288321.css.map",
+    "main.9b945d4a.js.map": "/winner-invest/static/js/main.9b945d4a.js.map",
+    "453.5b34c5b8.chunk.js.map": "/winner-invest/static/js/453.5b34c5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d288321.css",
+    "static/js/main.9b945d4a.js"
+  ]
+}
